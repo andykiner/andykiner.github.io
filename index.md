@@ -1,14 +1,23 @@
-# Grand Opening
-Welcome to the grand opening of my first [GitHub](https://github.com) page going live!
+# Introducing **SPARK**
 
-This page will be about EVERYTHING. Stuff like...
-- Blogs
-- Projects
-- Ideas
-will be on my website!
+#### Explore what's possible.
 
-I am slowly learning how to do this, but at the end, this will turn out good!
+What is possible with technology?
 
----
+**A lot.**
 
-[@AndyKiner](github.com/andykiner)
+Technology is changing the way we think, create, connect, and experience the world. Every new idea opens the door to something we haven't seen before.
+
+New ideas.
+New ways of thinking.
+New possibilities.
+
+**SPARK** is about exploring those possibilities and making technology more exciting, creative, and fun.
+
+We don't just ask **“What's next?”**
+
+We ask:
+
+**“Why not?”**
+
+###### Explore our [**ideas**](ideas.md)
