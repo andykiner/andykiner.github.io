@@ -1,9 +1,7 @@
 # Markdown Guide
 
-:::before 
-Not all of these tips & tricks will work. They are unidentified of where they work.
+:::note
+View webpage below.
 :::
 
----
-
-Markdown Guide coming soon...
+[View Me](blog)
